@@ -1,0 +1,3 @@
+add:../editor/editor.css
+add:../tldraw/src/lib/ui.css
+Watching "../{editor/editor,tldraw/src/lib/ui}.css" ..
